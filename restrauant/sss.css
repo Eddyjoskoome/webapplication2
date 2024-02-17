@@ -1,0 +1,46 @@
+body{
+  background-color: black;
+    background-position: center;
+    background-size: cover 80px;
+}
+.row h1{
+    font-size: 70px;
+    color: white;
+    font-family: cursive;
+}
+.row h1 span{
+    margin-bottom: 40px;
+    color: darkgoldenrod;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+.row p{
+    font-size: 30px;
+    color: white;
+    font-family: aakar;
+}
+.row h2{
+    font-size: 40px;
+    font-family: "Century Schoolbook L";
+    color: darkgoldenrod;
+}
+.row h8{
+    text-decoration: underline;
+    color: honeydew;
+
+}
+.row img{
+    /*border-radius: 30px;*/
+    height: 60vh;
+    width: 100%;
+}
+.row h6{
+    font-family: "Century Schoolbook L";
+    color: darkgoldenrod;
+    font-size: 40px;
+}
+.row h7{
+    text-decoration: underline;
+    color: white;
+    font-size: 30px;
+}
